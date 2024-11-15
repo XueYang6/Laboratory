@@ -16,7 +16,7 @@ source code:
 
 """
 
-class SequentialWithKeywordArguments(nn.Sequential)
+class SequentialWithKeywordArguments(nn.Sequential):
     """
     Sequential module that allows the use of keyword arguments in the forward pass. 
     """
